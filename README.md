@@ -10,7 +10,7 @@
     <a href="https://packagist.org/packages/serafim/symbol"><img src="https://img.shields.io/badge/PHP-7.1+-6f4ca5.svg" alt="PHP 7.1+"></a>
     <a href="https://packagist.org/packages/serafim/symbol"><img src="https://poser.pugx.org/serafim/symbol/version" alt="Latest Stable Version"></a>
     <a href="https://packagist.org/packages/serafim/symbol"><img src="https://poser.pugx.org/serafim/symbol/downloads" alt="Total Downloads"></a>
-    <a href="https://raw.githubusercontent.com/SerafimArts/Symbol/master/LICENSE.md"><img src="https://poser.pugx.org/SerafimArts/Symbol/license" alt="License MIT"></a>
+    <a href="https://raw.githubusercontent.com/SerafimArts/Symbol/master/LICENSE.md"><img src="https://poser.pugx.org/serafim/symbol/license" alt="License MIT"></a>
 </p>
 
 Symbol is a special primitive data type, indicating an unique identifier. 
